@@ -71,3 +71,23 @@ li {
     background: #555;
     color: white;
 }
+
+footer {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
